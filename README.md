@@ -8,6 +8,7 @@ Restrict unapproved items for IQ Dental Supply
 
    ```bash
    Customized the following modules
+   
    - FacetsItemCellView
    - CartQuickAddToCartView
    - ProductDetailsFullView
